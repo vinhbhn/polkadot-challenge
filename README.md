@@ -16,7 +16,7 @@
 
 8. [https://github.com/vinhbhn/forkless-upgrade/blob/main/forkless-upgrade.png](https://github.com/vinhbhn/forkless-upgrade/blob/main/forkless-upgrade.png)
 
-9. [(Beginner) Build and Run a Local Phala Network](hhttps://github.com/vinhbhn/phala-network/blob/main/README.md)
+9. [Build and Run a Local Phala Network](hhttps://github.com/vinhbhn/phala-network/blob/main/README.md)
 
 10. [Smart contracts - write an ERC-20 smart contract with ink!](https://github.com/vinhbhn/smartcontract-with-ink)
 

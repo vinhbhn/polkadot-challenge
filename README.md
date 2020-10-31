@@ -2,33 +2,35 @@
 
 1. [Deploying Solidity Contract on Plasm Network V1](https://github.com/vinhbhn/plasm-v1-hackathon)
 
-2. [Back-End Javascript](https://github.com/vinhbhn/backend-javascript-beginner-challenge)
+2. [Play with Westend](https://westend.subscan.io/extrinsic/0x7d6b6ff396299e71571c7d5e9b9362c28bcc9c94b6ee96afad621f724e10cf66)
 
-3. [Run a private Substrate network](https://github.com/vinhbhn/substratenetwork/blob/main/result.png)
+3. [Back-End Javascript](https://github.com/vinhbhn/backend-javascript-beginner-challenge)
 
-4. [Launch a local Substrate development chain](https://github.com/vinhbhn/Launch-Local-Substrate/blob/master/Local-Substrate-Chain.png)
+4. [Run a private Substrate network](https://github.com/vinhbhn/substratenetwork/blob/main/result.png)
 
-5. [Run a Kusama or Polkadot node and add it to Telemetry](https://github.com/vinhbhn/run-kusama-node-telemetry)
+5. [Launch a local Substrate development chain](https://github.com/vinhbhn/Launch-Local-Substrate/blob/master/Local-Substrate-Chain.png)
 
-6. [Front-End Javascript](https://github.com/vinhbhn/frontend-polkadot-hackathon)
+6. [Run a Kusama or Polkadot node and add it to Telemetry](https://github.com/vinhbhn/run-kusama-node-telemetry)
 
-7. [Set an identity on Kusama or Polkadot's development version](https://github.com/vinhbhn/polkadot-identity/blob/main/polkadot-identity.png)
+7. [Front-End Javascript](https://github.com/vinhbhn/frontend-polkadot-hackathon)
 
-8. [https://github.com/vinhbhn/forkless-upgrade/blob/main/forkless-upgrade.png](https://github.com/vinhbhn/forkless-upgrade/blob/main/forkless-upgrade.png)
+8. [Set an identity on Kusama or Polkadot's development version](https://github.com/vinhbhn/polkadot-identity/blob/main/polkadot-identity.png)
 
-9. [Build and Run a Local Phala Network](https://github.com/vinhbhn/phala-network/blob/main/README.md)
+9. [Forkless Upgrade](https://github.com/vinhbhn/forkless-upgrade/blob/main/forkless-upgrade.png)
 
-10. [Smart contracts - write an ERC-20 smart contract with ink!](https://github.com/vinhbhn/smartcontract-with-ink)
+10. [Build and Run a Local Phala Network](https://github.com/vinhbhn/phala-network/blob/main/README.md)
 
-11. [FRAME Identity: Set an identity on a local --dev chain](https://github.com/vinhbhn/set-identity-local/blob/main/set-identity.png)
+11. [Smart contracts - write an ERC-20 smart contract with ink!](https://github.com/vinhbhn/smartcontract-with-ink)
 
-12. [Deploy on Moonbase Alpha using Truffle](https://github.com/vinhbhn/Moonbeam/tree/main/truffle)
+12. [FRAME Identity: Set an identity on a local --dev chain](https://github.com/vinhbhn/set-identity-local/blob/main/set-identity.png)
 
-13. [Using Remix and MetaMask on Moonbeam](https://github.com/vinhbhn/Moonbeam/tree/main/remix-metamask)
+13. [Deploy on Moonbase Alpha using Truffle](https://github.com/vinhbhn/Moonbeam/tree/main/truffle)
 
-14. [FRAME Development](https://github.com/vinhbhn/frame-dev)
-15. [FRAME Multisig](https://github.com/vinhbhn/frame-multi)
+14. [Using Remix and MetaMask on Moonbeam](https://github.com/vinhbhn/Moonbeam/tree/main/remix-metamask)
 
-16. [Enable NFT Support](https://github.com/vinhbhn/acala-nft/tree/main/nft-support)
+15. [FRAME Development](https://github.com/vinhbhn/frame-dev)
+16. [FRAME Multisig](https://github.com/vinhbhn/frame-multi)
 
-17. [Enable Multi-Currency Support](https://github.com/vinhbhn/acala-nft/tree/main/multi-currency)
+17. [Enable NFT Support](https://github.com/vinhbhn/acala-nft/tree/main/nft-support)
+
+18. [Enable Multi-Currency Support](https://github.com/vinhbhn/acala-nft/tree/main/multi-currency)

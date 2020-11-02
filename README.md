@@ -29,8 +29,11 @@
 14. [Using Remix and MetaMask on Moonbeam](https://github.com/vinhbhn/Moonbeam/tree/main/remix-metamask)
 
 15. [FRAME Development](https://github.com/vinhbhn/frame-dev)
+
 16. [FRAME Multisig](https://github.com/vinhbhn/frame-multi)
 
 17. [Enable NFT Support](https://github.com/vinhbhn/acala-nft/tree/main/nft-support)
 
 18. [Enable Multi-Currency Support](https://github.com/vinhbhn/acala-nft/tree/main/multi-currency)
+
+19. [Deploying An Auction Solidity Contract on Plasm Network ](https://drive.google.com/file/d/1EhVL0AE-p1FIa1oDGe6XCjl7OnukcPIE/view?usp=sharing)

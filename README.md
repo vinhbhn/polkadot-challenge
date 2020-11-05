@@ -39,3 +39,5 @@
 19. [Deploying An Auction Solidity Contract on Plasm Network ](https://drive.google.com/file/d/1EhVL0AE-p1FIa1oDGe6XCjl7OnukcPIE/view?usp=sharing)
 
 20. [REST APIs - Read an account's pending payouts](https://github.com/vinhbhn/read-account-pending-payout)
+
+21. [Build the First Confidential Contract](https://github.com/vinhbhn/first-confidental-contract)

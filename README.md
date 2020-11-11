@@ -41,3 +41,5 @@
 20. [REST APIs - Read an account's pending payouts](https://github.com/vinhbhn/read-account-pending-payout)
 
 21. [Build the First Confidential Contract](https://github.com/vinhbhn/first-confidental-contract)
+
+22. [Smart contracts - Build a charity raffle](https://github.com/vinhbhn/ink-charity-raffle)
